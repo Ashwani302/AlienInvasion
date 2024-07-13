@@ -3,7 +3,7 @@ Description
 Pygame Space Shooter is a simple 2D game where you control a spaceship and shoot down enemy ships.
 
 How to Play
-Download the zip file and extract it.
+Download the zip file (AlienInvasion.rar) and extract it.
 Play Button: Click the play button that appears on the screen to start the game.
 Controls: Use the arrow keys or 'WASD' keys to move the ship.
 Up Arrow / W: Move ship up
